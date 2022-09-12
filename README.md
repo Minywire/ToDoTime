@@ -1,7 +1,19 @@
 # ToDoTime
 A little to-do list that I created a a personal project
 
+## How This Came About
+I created ToDoTime as a personal project to learn C# and the WPF framework. I was prompted to create a simple task tracker within 2 weeks and I am quite proud of what I've made!
 
-This came about from a university club portfolio-project prompt. We were asked to create a simple task tracker within a fortnight and I chose to do mine in WPF. 
-In just over a week I was able to come up with this little fella and I'm quite proud given that this is not only my first time creating a project with a GUI, but
-also my first time playing with C# and WPF.
+## Features
+As of right now you can:
+  - Create tasks
+  - Delete tasks
+
+## Future Improvements
+In the future I plan to
+  - Save tasks inbetween sessions
+  - Add keyboard shortcuts
+
+
+## Reflection
+Overall I'm quite proud of this little project, its the first time I have worked with a GUI before, on top of being the first time I have worked properly with C# and WPF. While there are many improvements that could be made, I believe that for a first attempt, I did quite well.
